@@ -213,6 +213,15 @@ Bachelor of Computer Science with a Minor in Statistics
 
 Aspiring Machine Learning Engineer and Data Scientist
 
+Areas of Interest
+
+Data Science
+Machine Learning
+Artificial Intelligence
+Predictive Analytics
+Research Engineering
+
+
 ---
 
 # ⭐ Repository
